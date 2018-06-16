@@ -1,0 +1,12 @@
+{
+    "group": "MojingSDK",
+    "libs": ["libsqlite3.tbd","libz.tbd"],
+    "frameworks": [],
+    "headerpaths": [],
+    "files":   [],
+    "folders": [],    
+    "excludes": [],
+    "compiler_flags": [],
+	"linker_flags": [],
+	"plist": {}
+}
