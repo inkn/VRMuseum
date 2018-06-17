@@ -52,6 +52,12 @@
 
 <br />
 
+* VR文物影院:
+
+<img src="https://github.com/inkn/VRMuseum/blob/master/imges/cinema.jpg?raw=true" width = "960" height = "540" alt="图片名称" />
+
+<br />
+
 * 细节展示界面: 
 
 <img src="https://github.com/inkn/VRMuseum/blob/master/imges/detail.jpg?raw=true" width = "960" height = "540" alt="图片名称" />

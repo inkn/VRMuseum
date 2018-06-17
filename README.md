@@ -52,6 +52,13 @@ An application, Using virtual reality technology to display museum.
 
 <br />
 
+* VR Cinema:
+
+<img src="https://github.com/inkn/VRMuseum/blob/master/imges/cinema.jpg?raw=true" width = "960" height = "540" alt="图片名称" />
+
+<br />
+
+
 * Details Display Interface: 
 
 <img src="https://github.com/inkn/VRMuseum/blob/master/imges/detail.jpg?raw=true" width = "960" height = "540" alt="图片名称" />
