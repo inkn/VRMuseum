@@ -28,40 +28,40 @@ An application, Using virtual reality technology to display museum.
 ### Screenshots
 * Main interface:
 
-<img src="https://github.com/inkn/VRMuseum/blob/master/imges/main.jpg?raw=true" width = "960" height = "540" alt="图片名称" />
+<img src="http://imglf3.nosdn0.126.net/img/cWVpRVN0ckp4MEtvZ2d5Skd2TFF6VnFDOU4rRmhvbjdwT2VZZ0JEdzN2SDF1MElZbGRCY0pnPT0.jpg" width = "960" height = "540" alt="图片名称" />
 
 <br />
 
 * Pavilion Selection Interface:
 
-<img src="https://github.com/inkn/VRMuseum/blob/master/imges/select.jpg?raw=true" width = "960" height = "540" alt="图片名称" />
+<img src="http://imglf4.nosdn0.126.net/img/cWVpRVN0ckp4MEtvZ2d5Skd2TFF6ZkJ6ZUNDajNGUkVxdGI3MEYzUllYNjJmRG9zNmxLS013PT0.jpg" width = "960" height = "540" alt="图片名称" />
 
 <br />
 
 * Dynamic display of ancient paintings interface:
 
-<img src="https://github.com/inkn/VRMuseum/blob/master/imges/dynamic.jpg?raw=true" width = "960" height = "540" alt="图片名称" />
+<img src="http://imglf4.nosdn0.126.net/img/cWVpRVN0ckp4MEtvZ2d5Skd2TFF6UjFVYXkyNnd3UkwxbWFZTWs5bERxSjNBZ09UT1FJR09RPT0.jpg" width = "960" height = "540" alt="图片名称" />
 
-<img src="http://imglf6.nosdn.127.net/img/cWVpRVN0ckp4MEpNZG42cVBpOUV6Y05kRFB4L1VIVUVIc1BWRTJ4OHVuMnFlNmhHSzB2WXNBPT0.gif" width = "960" height = "600" alt="图片名称" />
+<img src="http://imglf4.nosdn0.126.net/img/cWVpRVN0ckp4MEtvZ2d5Skd2TFF6WS9udHp1cm5OR0NmeW9Rem1ZeFViNDRFUHhwYmYvMGVRPT0.gif" width = "960" height = "600" alt="图片名称" />
 
 <br />
 
 * Virtual Pavilion Interface: 
 
-<img src="https://github.com/inkn/VRMuseum/blob/master/imges/virtual.jpg?raw=true" width = "960" height = "540" alt="图片名称" />
+<img src="http://imglf6.nosdn0.126.net/img/cWVpRVN0ckp4MEtvZ2d5Skd2TFF6VFJaRXNtMExrSHNnUFRQTzk1V09mNFowVXpKMlc2dmZnPT0.jpg" width = "960" height = "540" alt="图片名称" />
 
 <br />
 
 * VR Cinema:
 
-<img src="https://github.com/inkn/VRMuseum/blob/master/imges/cinema.jpg?raw=true" width = "960" height = "540" alt="图片名称" />
+<img src="http://imglf6.nosdn0.126.net/img/cWVpRVN0ckp4MEtvZ2d5Skd2TFF6WURnY25lM1kxRFUreHNSZ0JRby8yMkYzdXRHNzU0Nkt3PT0.jpg" width = "960" height = "540" alt="图片名称" />
 
 <br />
 
 
 * Details Display Interface: 
 
-<img src="https://github.com/inkn/VRMuseum/blob/master/imges/detail.jpg?raw=true" width = "960" height = "540" alt="图片名称" />
+<img src="http://imglf5.nosdn0.126.net/img/cWVpRVN0ckp4MEtvZ2d5Skd2TFF6WTljZStBdU0xTHJHMXlvaW1xdWV5TXl2aGVrT0Urdnl3PT0.jpg" width = "960" height = "540" alt="图片名称" />
 
 
 
